@@ -1,6 +1,6 @@
 # Hi there 👋
 
-## 🌟 About Me:
+## 💫 About Me:
 I'm a master's student at Leibniz University of Hannover, studying Computer Engineering with a specialization in Deep Learning and Data Science.  
 Currently, I work at TIB Institute on ORKG Ask LLM, the OntoAligner Library, and the Empirical Research Dashboard.
 #NOT TRUE
@@ -21,9 +21,9 @@ Currently, I work at TIB Institute on ORKG Ask LLM, the OntoAligner Library, and
 ... *(Add more tech badges as needed)*
 
 ## 📊 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ghofran565&show_icons=true&theme=dark)
 
 ## 💡 Most Used Languages:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ghofran565&layout=compact&theme=dark)
 
 
