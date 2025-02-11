@@ -29,7 +29,4 @@ Currently, I work at TIB Institute on ORKG Ask LLM, the OntoAligner Library, and
 ![Top Contributed Repos](https://github-readme-stats.vercel.app/api/pin/?username=Ghofran565&repo=Node-social-media-sample&theme=dark)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=alibij&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=Ghofran565&icon=2&color=4)](https://visitcount.itsvg.in)
+![](https://github-contributor-stats.vercel.app/api?username=Ghofran565&limit=5&theme=dark&combine_all_yearly_contributions=true)
