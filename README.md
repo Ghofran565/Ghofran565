@@ -32,4 +32,4 @@ Currently, I work at TIB Institute on ORKG Ask LLM, the OntoAligner Library, and
 ![](https://github-contributor-stats.vercel.app/api?username=alibij&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=alibij&icon=2&color=4)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Ghofran565&icon=2&color=4)](https://visitcount.itsvg.in)
