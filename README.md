@@ -26,4 +26,8 @@ Currently, I work at TIB Institute on ORKG Ask LLM, the OntoAligner Library, and
 ## 💡 Most Used Languages:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ghofran565&layout=compact&theme=dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ghofran565&layout=compact&theme=dark)
+![Top Contributed Repos](https://github-readme-stats.vercel.app/api/pin/?username=Ghofran565&repo=Node-e-commerce-sample&theme=dark)
+![Top Contributed Repos](https://github-readme-stats.vercel.app/api/pin/?username=Ghofran565&repo=Real-time-Leaderboard-backend&theme=dark)
+![Top Contributed Repos](https://github-readme-stats.vercel.app/api/pin/?username=Ghofran565&repo=vuetify-sample&theme=dark)
+![Top Contributed Repos](https://github-readme-stats.vercel.app/api/pin/?username=Ghofran565&repo=Node-blog-sample&theme=dark)
+![Top Contributed Repos](https://github-readme-stats.vercel.app/api/pin/?username=Ghofran565&repo=Node-social-media-sample&theme=dark)
