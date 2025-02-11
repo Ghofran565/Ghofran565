@@ -26,4 +26,4 @@ Currently, I work at TIB Institute on ORKG Ask LLM, the OntoAligner Library, and
 ## 💡 Most Used Languages:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ghofran565&layout=compact&theme=dark)
 
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ghofran565&layout=compact&theme=dark)
