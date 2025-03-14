@@ -1,10 +1,10 @@
 ## 🌐 Socials:
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Ghofran565)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/mohammad-hossein-ghofran-0885bb29a)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:mhg4660@gmail.com)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/mohammad-hossein-ghofran-0885bb29a)
 
 # 💫 About Me:
-I'm a...
+I'm a... <br>
 I don't know
 
 &nbsp;
@@ -24,9 +24,6 @@ I don't know
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
-![HTML](https://img.shields.io/badge/-HTML-000?&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS-000?&logo=CSS3)
 
 ### Technologies
 
@@ -35,14 +32,8 @@ I don't know
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![Vue](https://img.shields.io/badge/-Vue-000?&logo=Vue.js)
 ![Nuxt](https://img.shields.io/badge/-Nuxt-000?&logo=Nuxt.js)
-![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
 ![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
 
 ## 📊 GitHub Stats:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ghofran565&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ghofran565&layout=compact&theme=dark)
-
-<!--### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Ghofran565&limit=5&theme=dark&combine_all_yearly_contributions=true)
-![Top Contributed Repos](https://github-readme-stats.vercel.app/api/pin/?username=Ghofran565&repo=Node-e-commerce-sample&theme=dark)
-![Top Contributed Repos](https://github-readme-stats.vercel.app/api/pin/?username=Ghofran565&repo=Real-time-Leaderboard-backend&theme=dark)-->
