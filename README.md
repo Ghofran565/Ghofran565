@@ -13,7 +13,7 @@ I uhh... Lets say this Readme is under configuration 😅<br>
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 - 👨🏽‍💻 I’m currently working on a private project;
-- 🌱 I’m currently learning Nuxt about Vue.js; 
+- 🌱 I’m currently learning Nuxt; 
 - 📫 How to reach me: mhg4660@gmail.com;
 
 &nbsp;
@@ -34,5 +34,9 @@ I uhh... Lets say this Readme is under configuration 😅<br>
 ![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
 
 ## 📊 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ghofran565&show_icons=true&theme=light)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ghofran565&layout=compact&theme=light)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ghofran565&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ghofran565&layout=compact&theme=dark)
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ghofran565&show_icons=true&locale=en&layout=compact" alt="ghofran565" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ghofran565&show_icons=true&locale=en" alt="ghofran565" /></p>
