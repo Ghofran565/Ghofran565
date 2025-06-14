@@ -4,8 +4,7 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/mohammad-hossein-ghofran-0885bb29a)
 
 # 💫 About Me:
-I'm a... <br>
-I don't know
+I uhh... Lets say this Readme is under configuration 😅<br>
 
 &nbsp;
 
@@ -13,7 +12,7 @@ I don't know
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 👨🏽‍💻 I’m currently working on making some work history;
+- 👨🏽‍💻 I’m currently working on a private project;
 - 🌱 I’m currently learning Nuxt about Vue.js; 
 - 📫 How to reach me: mhg4660@gmail.com;
 
@@ -35,5 +34,5 @@ I don't know
 ![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
 
 ## 📊 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ghofran565&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ghofran565&layout=compact&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ghofran565&show_icons=true&theme=light)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ghofran565&layout=compact&theme=light)
