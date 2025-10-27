@@ -1,6 +1,7 @@
 ## 🌐 Socials:
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Ghofran565)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:mhg4660@gmail.com)
+[![Discord](https://img.shields.io/badge/-Discord-5865F2?style=flat&logo=Discord&logoColor=white)](https://discord.com/users/1298823045959647254)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/mohammad-hossein-ghofran-0885bb29a)
 
 # 💫 About Me:
@@ -17,6 +18,8 @@ I uhh... Lets say this Readme is under configuration 😅<br>
 - 📫 How to reach me: mhg4660@gmail.com;
 
 &nbsp;
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/1298823045959647254?theme=light&bg=d4d4d4&borderRadius=20px&animated=true&idleMessage=Probably%20doing%20nothing...&animatedDecoration=true)](https://discord.com/users/1298823045959647254)
 
 ### Languages
 
@@ -36,7 +39,3 @@ I uhh... Lets say this Readme is under configuration 😅<br>
 ## 📊 GitHub Stats:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ghofran565&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ghofran565&layout=compact&theme=dark)
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ghofran565&show_icons=true&locale=en&layout=compact" alt="ghofran565" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ghofran565&show_icons=true&locale=en" alt="ghofran565" /></p>
