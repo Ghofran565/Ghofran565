@@ -5,6 +5,10 @@ export default defineNuxtConfig({
 
 	modules: ['@nuxt/ui', '@nuxt/image', '@nuxt/hints', '@nuxt/eslint'],
 	css: ['~/assets/css/main.css'],
+		colorMode: {
+		preference: 'dark', // Default to light mode
+		fallback: 'dark', // Fallback if no preference
+	},
 	// app: {
 	// 	baseURL: '/my-presence/', // Replace with your exact repository name
 	// },
