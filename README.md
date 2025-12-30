@@ -19,7 +19,7 @@ I uhh... Lets say this Readme is under configuration 😅<br>
 
 &nbsp;
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/1298823045959647254?theme=light&bg=d4d4d4&borderRadius=20px&animated=true&idleMessage=Probably%20doing%20nothing...&animatedDecoration=true)](https://discord.com/users/1298823045959647254)
+[![Discord Presence](https://lanyard.cnrad.dev/api/1298823045959647254?theme=dark&bg=d4d4d4&borderRadius=20px&animated=true&idleMessage=Probably%20doing%20nothing...&animatedDecoration=true)](https://discord.com/users/1298823045959647254)
 
 ### Languages
 
