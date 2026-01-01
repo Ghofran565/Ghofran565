@@ -117,7 +117,7 @@
 	onMounted(() => {
 		if (process.client) {
 			fetchDiscordData(); // Initial fetch
-			const interval = setInterval(fetchDiscordData, 3000); 
+			const interval = setInterval(fetchDiscordData, 7000); 
 			onUnmounted(() => clearInterval(interval));
 		}
 	});
@@ -393,9 +393,9 @@
 				<div class="flex flex-col items-center gap-4">
 					<div class="w-20 h-20 rounded-full bg-white/10 animate-pulse"></div>
 					<div class="space-y-3 w-64 flex-1 flex flex-col">
-						<div class="h-6 bg-white/10 rounded animate-pulse"></div>
+						<!-- <div class="h-6 bg-white/10 rounded animate-pulse"></div>
 						<div class="h-4 bg-white/10 rounded w-40 animate-pulse"></div>
-						<div class="h-16 bg-white/10 rounded animate-pulse"></div>
+						<div class="h-16 bg-white/10 rounded animate-pulse"></div> -->
 					</div>
 				</div>
 			</div>
@@ -406,12 +406,12 @@
 				class="profile-effects-container"
 			>
 				<img
-					src="https://cdn.discordapp.com/assets/content/03bd90626dfe50185af92560593a6b3b2b268b7fa77110304b36a9e387d9969e"
+					src="/03bd90626dfe50185af92560593a6b3b2b268b7fa77110304b36a9e387d9969e.png"
 					class="profile-effect intro-effect"
 					loading="eager"
 				/>
 				<img
-					src="https://cdn.discordapp.com/assets/content/51bacef4c6356197123cf2fb9426f86edc3d7678b05a5ec29fc46ee7510b8087"
+					src="/51bacef4c6356197123cf2fb9426f86edc3d7678b05a5ec29fc46ee7510b8087.png"
 					class="profile-effect loop-effect"
 					loading="eager"
 				/>
@@ -442,7 +442,7 @@
 							/>
 
 							<img
-								src="https://cdn.discordapp.com/avatar-decoration-presets/a_671c4fcfb8d06e05fec00b061c720f7d.png?size=96"
+								src="/a_671c4fcfb8d06e05fec00b061c720f7d.png"
 								alt=""
 								class="scale-125 pointer-events-none absolute inset-[0%] object-contain"
 								loading="eager"
@@ -757,7 +757,7 @@
 
 	.loop-effect {
 		opacity: 0;
-		animation: startLoop 8s ease forwards, slowFloat 8s linear infinite;
+		animation: startLoop 3s ease forwards, slowFloat 8s linear infinite;
 		animation-play-state: inherit;
 		z-index: 1;
 	}
