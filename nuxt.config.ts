@@ -12,6 +12,6 @@ export default defineNuxtConfig({
 	// 	preset: 'vercel',
 	// },
 	app: {
-    baseURL: '/Ghofran565/'
+    baseURL: '/'
   }
 });
