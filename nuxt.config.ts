@@ -2,17 +2,16 @@
 export default defineNuxtConfig({
 	compatibilityDate: '2025-07-15',
 	devtools: { enabled: true },
-
 	modules: ['@nuxt/ui', '@nuxt/image', '@nuxt/hints', '@nuxt/eslint'],
 	css: ['~/assets/css/main.css'],
 		colorMode: {
-		preference: 'dark', // Default to light mode
-		fallback: 'dark', // Fallback if no preference
+		preference: 'dark',
+		fallback: 'dark',
 	},
-	// app: {
-	// 	baseURL: '/my-presence/', // Replace with your exact repository name
+	// nitro: {
+	// 	preset: 'vercel',
 	// },
-	nitro: {
-		preset: 'vercel', // Optional, but recommended
-	},
+	app: {
+    baseURL: '/Ghofran565/'
+  }
 });

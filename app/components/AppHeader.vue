@@ -1,5 +1,5 @@
 <template>
-  <!-- <div class="fixed top-5 left-5 z-50">
+  <div class="fixed top-5 left-5 z-50">
     <UTooltip
       text="Change theme"
       :content="{
@@ -30,7 +30,7 @@
         </div>
       </UColorModeButton>
     </UTooltip>
-  </div> -->
+  </div>
 </template>
 
 <script setup lang="ts">
