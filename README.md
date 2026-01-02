@@ -5,7 +5,7 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/mohammad-hossein-ghofran-0885bb29a)
 
 # 💫 About Me:
-I uhh... Lets say this Readme is under configuration 😅<br>
+Lets say this Readme is under configuration <br>
 
 &nbsp;
 
@@ -13,8 +13,8 @@ I uhh... Lets say this Readme is under configuration 😅<br>
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 👨🏽‍💻 I’m currently working on a private project;
-- 🌱 I’m currently learning Nuxt; 
+- 👨🏽‍💻 I’m currently probably doing nothing;
+- 🌱 I’m currently probably doing nothing; 
 - 📫 How to reach me: mhg4660@gmail.com;
 
 &nbsp;
