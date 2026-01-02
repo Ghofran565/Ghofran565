@@ -19,7 +19,7 @@ I uhh... Lets say this Readme is under configuration 😅<br>
 
 &nbsp;
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/1298823045959647254?theme=dark&bg=d4d4d4&borderRadius=20px&animated=true&idleMessage=Probably%20doing%20nothing...&animatedDecoration=true)](https://discord.com/users/1298823045959647254)
+[![Discord Presence](https://lanyard.cnrad.dev/api/1298823045959647254?theme=dark&bg=000000&borderRadius=20px&animated=true&idleMessage=Probably%20doing%20nothing...&animatedDecoration=true)](https://discord.com/users/1298823045959647254)
 
 ### Languages
 
@@ -35,7 +35,3 @@ I uhh... Lets say this Readme is under configuration 😅<br>
 ![Vue](https://img.shields.io/badge/-Vue-000?&logo=Vue.js)
 ![Nuxt](https://img.shields.io/badge/-Nuxt-000?&logo=Nuxt.js)
 ![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
-
-## 📊 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ghofran565&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ghofran565&layout=compact&theme=dark)
